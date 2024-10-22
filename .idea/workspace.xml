@@ -4,16 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf29ad39-4eee-4948-ba5a-c3d1effbf254" name="Changes" comment="inicio do projeto">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/Coins.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/ConsultCurrenciesJson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/Currencies.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/CurrenciesJson.java" afterDir="false" />
+    <list default="true" id="cf29ad39-4eee-4948-ba5a-c3d1effbf254" name="Changes" comment="projeto finalizado">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/currencyConverter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/currencyConverter.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +23,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:G2player1/currency-converter.git",
+    "accountId": "6d13e7ff-3e2e-4f6f-9356-a50660a0bf07"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 8
 }]]></component>
@@ -76,11 +74,20 @@
       <option name="project" value="LOCAL" />
       <updated>1729552176965</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="projeto finalizado">
+      <option name="closed" value="true" />
+      <created>1729563348626</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1729563348626</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="inicio do projeto" />
-    <option name="LAST_COMMIT_MESSAGE" value="inicio do projeto" />
+    <MESSAGE value="projeto finalizado" />
+    <option name="LAST_COMMIT_MESSAGE" value="projeto finalizado" />
   </component>
 </project>
